@@ -19,7 +19,7 @@ website:
     background: primary
     search: true   
     right:
-      - text: "Home"
+      - text: "Home Page"
         file: index.qmd
       - text: "My Resume"
         file: resume.qmd
