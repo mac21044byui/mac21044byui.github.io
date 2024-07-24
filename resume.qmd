@@ -1,45 +1,40 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shelton Macamo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shelton Macamo
+Aspiring Sofware Engineer, College Junior, Cloud enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mac21044@byui.edu">my email address</a>
+| <a href="https://www.linkedin.com/in/shelton-macamo-604b001bb/?trk=opento_sprofile_details">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Persuing a bachelor's degree in computer science with a focus on cloud engineering
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Cloud Engineering. Specifically working with the AWS cloud platform.
 
 
-### Research interests
+### Personal interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Soccer, Programming, Marvel Movies, Working out
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006 - 2012`
+__Forest Hill Primary Schol, Johannesburg South Africa.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013 - 2017`
+__Sir John Adamson High School,Johannesburg South Africa__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2022 - Present`
+__BYU-Idaho, Rexburg Idaho__
 
 
 ## Awards
@@ -50,40 +45,126 @@ President, *Royal Society*, London, UK
 Associate, *French Academy of Science*, Paris, France
 
 
+## Skills
 
-## Publications
+### Advanced:
+- CSS
+- HTML
+- C#
+- Python
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Competent
+- Git/Github
+- Communication
+- Good collaborator
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Work Experience
 
-`1669`
-Lectiones opticæ.
+`Association of Computer Machinery Society | BYU-Idaho`
 
-etc. etc. etc.
+- Vice President from April 2023 - October 2023
+•   Participated as a judge during the Fall 2023 BYU-I hackathon
+•   Actively planned and coordinated the operation of the entire hackathon with my team
+•   Developed the FAQ page for the BYU-I hack website using React, and JavaScript
 
-### Patents
+<div id="webaddress">
+| <a href="https://byuihack.org/FAQ">Website I helped to build</a>
+</div>
+
+
+`BYU-Idaho IT department`
+
+- *Assistant I-Learn Administrator from April 2022 - Present:*
+- I Resolved issues that students and faculty have with the University’s online learning software. 
+- I Resolved tickets in a timely manner, which helps both the students and faculty remain productive with the use of the online learning software. 
+
+`Volunteering`
+- Missionary for the LDS Church in Angola, Luanda between September 2018 – October 2020 
+
+
+---
+layout: cv
+title: Shelton Macamo's CV
+---
+# Shelton Macamo
+Aspiring Sofware Engineer, College Junior, Cloud enthusiast.
+
+<div id="webaddress">
+<a href="mac21044@byui.edu">my email address</a>
+| <a href="https://www.linkedin.com/in/shelton-macamo-604b001bb/?trk=opento_sprofile_details">My LinkedIn page</a>
+</div>
+
+
+## Currently
+
+Persuing a bachelor's degree in computer science with a focus on cloud engineering
+
+### Specialized in
+
+Cloud Engineering. Specifically working with the AWS cloud platform.
+
+
+### Personal interests
+
+Soccer, Programming, Marvel Movies, Working out
+
+
+## Education
+
+`2006 - 2012`
+__Forest Hill Primary Schol, Johannesburg South Africa.__
+
+`2013 - 2017`
+__Sir John Adamson High School,Johannesburg South Africa__
+
+`2022 - Present`
+__BYU-Idaho, Rexburg Idaho__
+
+
+## Awards
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
 
 
-## Occupation
+## Skills
 
-`1600`
-__Royal Mint__, London
+### Advanced:
+- CSS
+- HTML
+- C#
+- Python
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### Competent
+- Git/Github
+- Communication
+- Good collaborator
 
 
-<!-- ### Footer
+## Work Experience
 
-Last updated: May 2013 -->
+`Association of Computer Machinery Society | BYU-Idaho`
+
+- Vice President from April 2023 - October 2023
+•   Participated as a judge during the Fall 2023 BYU-I hackathon
+•   Actively planned and coordinated the operation of the entire hackathon with my team
+•   Developed the FAQ page for the BYU-I hack website using React, and JavaScript
+
+<div id="webaddress">
+| <a href="https://byuihack.org/FAQ">Website I helped to build</a>
+</div>
+
+
+`BYU-Idaho IT department`
+
+- *Assistant I-Learn Administrator from April 2022 - Present:*
+- I Resolved issues that students and faculty have with the University’s online learning software. 
+- I Resolved tickets in a timely manner, which helps both the students and faculty remain productive with the use of the online learning software. 
+
+`Volunteering`
+- Missionary for the LDS Church in Angola, Luanda between September 2018 – October 2020 
+
+
