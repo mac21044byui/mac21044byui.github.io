@@ -5,7 +5,7 @@ website:
   title: "Shelton_Macamo - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/mac21044/mac21044.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
@@ -13,7 +13,7 @@ website:
     left: "Shelton_Macamo 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/shelton-macamo-604b001bb/
 
   navbar:
     background: primary
